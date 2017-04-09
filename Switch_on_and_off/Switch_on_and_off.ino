@@ -1,5 +1,5 @@
 
-int ledPin = 1;	// LED is connected to digital pin 13
+int ledPin = 1;	// LED is connected to d
 int switchPin = 2;	// switch connected to digital pin 2
 int switchPushCount = 0;	// counter for presses
 int switchState = 0; //current state of button
